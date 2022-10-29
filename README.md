@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Xcyth
+- 👀 I’m interested in Node.JS
+- 🌱 I’m currently learning React, Node.JS
+- 💞️ I’m looking to collaborate on Medium/Large sized projects.
+- 📫 How to reach me mailto:xcyth.dev@gmail.com

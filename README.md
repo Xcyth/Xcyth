@@ -2,4 +2,4 @@
 - 👀 I’m interested in Node.JS
 - 🌱 I’m currently learning React, Node.JS
 - 💞️ I’m looking to collaborate on Medium/Large sized projects.
-- 📫 How to reach me? e-Mail me at: (xcyth.dev@gmail.com)[mailto:xcyth.dev@gmail.com]
+- 📫 How to reach me? e-Mail me at: xcyth.dev@gmail.com

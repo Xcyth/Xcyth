@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xcyth
+- 👋 Hi, I’m Ritam
 - 👀 I’m interested in Node.JS
 - 🌱 I’m currently learning React, Node.JS
 - 💞️ I’m looking to collaborate on Medium/Large sized projects.
